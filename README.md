@@ -1,1 +1,1 @@
-# THONNY
+# THONNY  ejercicios  
